@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SignupReact/static/css/main.5d3bda7b.chunk.css",
+    "main.js": "/SignupReact/static/js/main.d02d2f6b.chunk.js",
+    "main.js.map": "/SignupReact/static/js/main.d02d2f6b.chunk.js.map",
+    "runtime-main.js": "/SignupReact/static/js/runtime-main.80b38d61.js",
+    "runtime-main.js.map": "/SignupReact/static/js/runtime-main.80b38d61.js.map",
+    "static/js/2.0ed3e4f1.chunk.js": "/SignupReact/static/js/2.0ed3e4f1.chunk.js",
+    "static/js/2.0ed3e4f1.chunk.js.map": "/SignupReact/static/js/2.0ed3e4f1.chunk.js.map",
+    "static/js/3.6226f9ff.chunk.js": "/SignupReact/static/js/3.6226f9ff.chunk.js",
+    "static/js/3.6226f9ff.chunk.js.map": "/SignupReact/static/js/3.6226f9ff.chunk.js.map",
+    "index.html": "/SignupReact/index.html",
+    "static/css/main.5d3bda7b.chunk.css.map": "/SignupReact/static/css/main.5d3bda7b.chunk.css.map",
+    "static/js/2.0ed3e4f1.chunk.js.LICENSE.txt": "/SignupReact/static/js/2.0ed3e4f1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SignupReact/static/media/bg-intro-desktop.059183ee.png",
+    "static/media/logo.6ce24c58.svg": "/SignupReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80b38d61.js",
+    "static/js/2.0ed3e4f1.chunk.js",
+    "static/css/main.5d3bda7b.chunk.css",
+    "static/js/main.d02d2f6b.chunk.js"
+  ]
+}
