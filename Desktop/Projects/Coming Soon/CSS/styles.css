@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow: hidden;
+}
+
+.main{
+    position: relative;
+    bottom: 50px;
+}
+
+
+.hero-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 250px;
+}
+
+.social{
+    position: relative;
+    bottom: 200px;
+    margin-left: 815px;
+
+}
+
+.social a{
+    text-decoration: none;
+    font-size: 35px;
+    color: black;
+    
+}
+
+.social li{
+    display: inline-block;
+    width: 100px;
+}
